@@ -84,3 +84,9 @@ Build a **PHP frontend + MySQL database** setup to **create and list users**
 ### 🎯 Takeaway
 
 > “Docker Compose bridges the gap between running single containers and managing real-world multi-service applications.”
+<img width="1229" height="805" alt="crud" src="https://github.com/user-attachments/assets/ead6192b-69d3-48c3-9590-4c172086ce59" />
+<img width="1840" height="662" alt="crud2" src="https://github.com/user-attachments/assets/f85bb479-ab04-409b-8463-a27d2e3f35d1" />
+<img width="812" height="1008" alt="crud3" src="https://github.com/user-attachments/assets/96c1b767-2fca-4264-a6c4-c868b7361c7d" />
+
+
+
